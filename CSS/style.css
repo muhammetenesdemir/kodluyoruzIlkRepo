@@ -1,0 +1,24 @@
+.container {
+    margin: 0 75px;
+    background-color:#EEEEEE;
+}
+h2{
+    margin: 0;
+    font-size: 16px;
+}
+.BOX{
+    margin: 0;
+    margin:0 75px;
+    
+}
+.box{
+    margin:0 1px;
+    float: left;
+    width: 33%;
+    background-color: #7EE5DA;
+    height: 100px;
+}
+h3{
+    margin: 0;
+    font-size:13px ;
+}
